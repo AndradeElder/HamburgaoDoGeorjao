@@ -43,3 +43,6 @@ O projeto usado como base é o senai.pizzaria do professor, qualquer coisa consu
 # links importantes
 
 - [Figma](http://...)
+
+
+---- ADd extenção para o SQlite
