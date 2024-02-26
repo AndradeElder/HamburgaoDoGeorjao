@@ -31,10 +31,11 @@ namespace RegrasDeNegocios.Entidades
                 PicanhaParadise = PicanhaParadise,
                 RancheroRodeo = RancheroRodeo,
                 SinfoniaDeCogumelos = SinfoniaDeCogumelos,
-                FrangoFantastico = FrangoFantastico,
-
+                FrangoFantastico = FrangoFantastico
             };
            
         }
     }
 }
+
+oks completado

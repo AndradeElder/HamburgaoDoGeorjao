@@ -9,6 +9,7 @@ namespace RegrasDeNegocios.Entidades
 {
     public class Cliente : EntidadeBase
     {
+        
         public Endereco Endereco {  get; set; }
         public Guid UserId { get; set; }
         public string Nome { get; set; }
@@ -22,3 +23,5 @@ namespace RegrasDeNegocios.Entidades
         }
     }
 }
+
+oks completado

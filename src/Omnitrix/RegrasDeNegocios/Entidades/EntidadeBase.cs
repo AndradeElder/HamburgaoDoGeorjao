@@ -11,3 +11,5 @@ namespace RegrasDeNegocios.Entidades
         public int Id { get; set; }
     }
 }
+
+oks completado

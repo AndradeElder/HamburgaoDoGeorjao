@@ -35,3 +35,5 @@ namespace RegrasDeNegocios.Entidades
 
     }
 }
+
+oks completado
